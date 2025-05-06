@@ -25,8 +25,8 @@ public class Main {
             
             // Criar Post 2 e adicionar comentários
             Post p2 = new Post(sdf.parse("06/05/2025 16:40:00"), 
-                             "PERDI O CABAÇO ", 
-                             "finalmente, dps de 18 anos consegui transar  ", 
+                             "INDO VIAJAR", 
+                             "finalmente, dps de 18 anos consegui tirar meu visto, estou indo para o aeroporto!", 
                              250);
             
             Comment c1p2 = new Comment("Ta luis, eu perdi com 17 chupa meu penis seu otario");
