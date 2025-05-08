@@ -29,7 +29,7 @@ public class Main {
                              "finalmente, dps de 18 anos consegui tirar meu visto, estou indo para o aeroporto!", 
                              250);
             
-            Comment c1p2 = new Comment("Ta luis, eu perdi com 17 chupa meu penis seu otario");
+            Comment c1p2 = new Comment("parabens");
             Comment c2p2 = new Comment("kkkkkk finalmente");
             
             // Adicionar comentários ao post 2
